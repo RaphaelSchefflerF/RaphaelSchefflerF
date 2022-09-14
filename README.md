@@ -21,7 +21,9 @@
   
 ### CSS <img align="center" height="40" alt="css" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-### PYTHON <img align="center" height="40" alt="python"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### PYTHON <img align="center" height="40" alt="python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+### BOOTSTRAP 
   
 
 
