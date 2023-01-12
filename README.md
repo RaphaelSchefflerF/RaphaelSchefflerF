@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github.com/RaphaelSchefflerF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelSchefflerF&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
   
 ## Tecnologias que estou aprendendo e aprimorando!!!
