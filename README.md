@@ -1,5 +1,4 @@
 
-
 ## Oiee eu sou o Raphael Scheffler 🖐️!!!
 
 <div> 
@@ -9,9 +8,10 @@
   <a href="https://www.linkedin.com/in/raphaelscheffler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-<div>
-  <a href="https://github.com/RaphaelSchefflerF">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaphaelSchefflerF&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="RaphaelSchefflerF Language stats" />
+</a>
 </div>
   
 ## Tecnologias que estou aprendendo e aprimorando!!!
