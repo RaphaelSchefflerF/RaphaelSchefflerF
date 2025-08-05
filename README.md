@@ -1,23 +1,48 @@
+## 👋 Olá, eu sou o Raphael Scheffler!
 
-## Oiee eu sou o Raphael Scheffler 🖐️!!!
+Sou apaixonado por tecnologia, desenvolvimento web e soluções criativas que conectam pessoas e ideias. Atualmente estou em constante evolução, aprendendo e aprimorando minhas habilidades em front-end, back-end e design.
 
-<div> 
-  <a href="https://www.youtube.com/c/ComputaçãoemMovimento" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/raphaelhsf47" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pcraphaelscheffler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphaelscheffler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
-<div> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaphaelSchefflerF&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="RaphaelSchefflerF Language stats" />
-</a>
+### 🚀 Vamos nos conectar?
+<div>
+  <a href="mailto:pcraphaelscheffler@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raphaelscheffler" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-  
-## Tecnologias que estou aprendendo e aprimorando!!!
-  
-### HTML5 <img align="center" height="40" alt="html5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  CSS <img align="center" height="40" alt="css" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  PYTHON <img align="center" height="40" alt="python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  BOOTSTRAP <img align="center" height="40" alt="python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> FIGMA <img align="center" height="40" alt="python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-                   
 
+---
 
- 
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+</div>  
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelSchefflerF&locale=pt-br&layout=compact&card_width=480&langs_count=6&theme=aura&hide_border=true" height="280" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelSchefflerF&radius=12&theme=tokyo-night&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+</div>
+
+---
+
+> "A tecnologia move o mundo — e eu quero fazer parte dessa transformação."
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph.svg">
+</picture>
