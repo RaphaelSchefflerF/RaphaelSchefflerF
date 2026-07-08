@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e soluções criativas que co
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph.svg">
 </picture>
-
+ <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RaphaelSchefflerF&hide=HTML&locale=pt-br&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 ---
 > "A tecnologia move o mundo — e eu quero fazer parte dessa transformação."
 ---
